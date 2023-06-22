@@ -6,7 +6,8 @@ Welcome, 환영합니다!
 ## What is it?
 
 <!-- About 만들기 -->
-TBD: 이 저장소의 목적, 만든 계기, 등등
+<!-- 이 저장소의 목적, 만든 계기, 등등 -->
+TBD
 
 
 ## Table of Contents
@@ -24,9 +25,9 @@ TBD
 
 2. **Explore the Folders**
 
-3. **Discover the Data**: 
+3. **Discover the Data**
 
-4. **Contribute**:
+4. **Contribute**
 
 ---
 
