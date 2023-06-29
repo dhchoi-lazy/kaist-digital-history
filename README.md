@@ -12,7 +12,7 @@ The KAIST Digital History Archive has two simple goals: first, it is designed to
 
 ## Who are we?
 
-Mr. Donghyeok Choi is a doctoral candidate, whose pioneering research illuminates how DH should move forward in collaboration with data science, complex system science, and history.
+Mr. Donghyeok Choi is a doctoral candidate, whose pioneering research illuminates how DH should move forward in collaboration with data science, complex system science, and history.   
 Dr. Donghyun Woo is an assistant professor, who focuses on glboal Cold War history, nuclear history, history of science, technology, environent, and medicine (STEM), and DH.
 
 ## Table of Contents
