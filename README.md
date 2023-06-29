@@ -1,7 +1,7 @@
-# Welcome to the KAIST Digital History Archive
+# Welcome to KAIST Digital History Archive
 
 <!-- 환영사 만들기 -->
-Welcome, 환영합니다!
+Hi! Welcome to KAIST Digital History Archive. Built by Mr. Donghyeok Choi (CT, KAIST) and co-managed by Dr. Donghyun Woo (DHCSS, KAIST), our Archive aims to provide collaborative space for inter- and trans-disciplinary research that falls under the name of Digital History (DH). We welcome you and appreciate your interest on our Archive.
 
 ## What is it?
 
