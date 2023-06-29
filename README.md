@@ -7,8 +7,8 @@ Hi! Welcome to KAIST Digital History Archive. Built by Mr. Donghyeok Choi (CT, K
 
 <!-- About 만들기 -->
 <!-- 이 저장소의 목적, 만든 계기, 등등 -->
-TBD
 
+The KAIST Digital History Archive has two simple goals: first, it is designed to house DH-related works that are produced within the boundaries of KAIST; second, it offers collaborative online space for interested learners of DH. While having these goals, our Archive will serve the upcoming DH courses at KAIST, including the Introduction to Digital History (Fall 2023) and Visualizing Historical Data (Spring 2024).
 
 ## Table of Contents
 <!-- 목차 만들기 -->
