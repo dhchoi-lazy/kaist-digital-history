@@ -10,6 +10,11 @@ Hi! Welcome to KAIST Digital History Archive. Built by Mr. Donghyeok Choi (CT, K
 
 The KAIST Digital History Archive has two simple goals: first, it is designed to house DH-related works that are produced within the boundaries of KAIST; second, it offers collaborative online space for interested learners of DH. While having these goals, our Archive will serve upcoming DH courses at KAIST, including the Introduction to Digital History (Fall 2023) and Visualizing Historical Data (Spring 2024).
 
+## Who are we?
+
+Mr. Donghyeok Choi is a doctoral candidate, whose pioneering research illuminates how DH should move forward in collaboration with data science, complex system science, and history.
+Dr. Donghyun Woo is an assistant professor, who focuses on glboal Cold War history, nuclear history, history of science, technology, environent, and medicine (STEM), and DH.
+
 ## Table of Contents
 <!-- 목차 만들기 -->
 TBD
