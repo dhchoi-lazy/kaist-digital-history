@@ -1,7 +1,7 @@
 # Welcome to KAIST Digital History Archive
 
 <!-- 환영사 만들기 -->
-Hi! Welcome to KAIST Digital History Archive. Built by **Mr. Donghyeok Choi** (CT, KAIST) and co-managed by **Dr. Donghyun Woo** (DHCSS, KAIST), our Archive aims to provide collaborative space for inter- and trans-disciplinary research that falls under **Digital History** (DHis). We welcome you and appreciate your interest on our Archive.
+Hi! Welcome to KAIST Digital History Archive. Built by **Dr. Donghyeok Choi** (HKU) and co-managed by **Dr. Donghyun Woo** (DHCSS, KAIST), our Archive aims to provide collaborative space for inter- and trans-disciplinary research that falls under **Digital History** (DHis). We welcome you and appreciate your interest on our Archive.
 
 ## What is it?
 
@@ -12,7 +12,7 @@ The KAIST Digital History Archive has two simple goals: first, it is designed to
 
 ## Who are we?
 
-+ **Mr. Donghyeok Choi** is a doctoral candidate, whose pioneering research illuminates how DHis should move forward in collaboration with data science, complex system science, and history. (More at <https://ct.kaist.ac.kr/boards/view/student_board/1872>)  
++ **Dr. Donghyeok Choi** is a doctoral candidate, whose pioneering research illuminates how DHis should move forward in collaboration with data science, complex system science, and history. (More at <https://ct.kaist.ac.kr/boards/view/student_board/1872>)  
 + **Dr. Donghyun Woo** is an assistant professor, who focuses on global Cold War history, nuclear history, history of science, technology, environent, and medicine (STEM), and DHis. (More at <https://ghss.kaist.ac.kr/boards/view/faculty_board/154>)
 
 ## Table of Contents
